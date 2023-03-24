@@ -1,5 +1,9 @@
 # 1Photon_Analysis
 
+# Branched version: #
+- For Matlab 2016b.
+- Added saving indices of dropped frames during motion correction (\processed_data\framesdropped.mat), necessary for true timestamps assignment.
+
 # Introduction #
 This code is mainly a wrapper for several amazing projects and streamlines their usage to generate a coherent data output. If you want to learn more about the underlying packages, you can read about the [motion correction](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-33-2-156), [CNMFE](https://elifesciences.org/articles/28728) and the [Sheintuch](https://www.cell.com/cell-reports/pdf/S2211-1247(17)31430-4.pdf) and [Ahanonu](https://www.science.org/doi/full/10.1126/science.aap8586) cross-day registration. You can also check out the code, [here](https://www.mathworks.com/matlabcentral/fileexchange/18401-efficient-subpixel-image-registration-by-cross-correlation), [here](https://github.com/zhoupc/CNMF_E), [here](https://github.com/zivlab/CellReg) and [here](https://github.com/bahanonu/ciatah).
 
