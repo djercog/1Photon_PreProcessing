@@ -1,6 +1,6 @@
 # 1Photon_Analysis
 
-# Branched version: #
+# Branched version by djercog: #
 - For Matlab 2016b.
 - Added saving indices of dropped frames during motion correction (\processed_data\framesdropped.mat), necessary for true timestamps assignment.
 
